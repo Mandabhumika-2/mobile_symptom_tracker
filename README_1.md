@@ -1,10 +1,6 @@
 [comment]: # (You may find the following markdown cheat sheet useful: https://www.markdownguide.org/cheat-sheet/. You may also consider using an online Markdown editor such as StackEdit or makeareadme.) 
 
-## Project title: *[Insert your project title here]*
-
-### Student name: *[Insert your name here]*
-
-### Student email: *[Insert your university email address here]*
+## Project title: Mobile Symptom Tracker
 
 ### Project description: 
 BrainTrack is an online application created to help patients with brain injuries such as those with suspected chronic traumatic encephalopathy (CTE), record and communicate their symptoms in an organized fashion. Many patients with these injuries are experience mood swings, sleep problems, headaches, memory problems, and behavioral issues, but often have trouble expressing these patterns during short office visits. The application allows users to record both physical and mental symptoms in one place thus alleviating the need for scattered notes or working memory. Secure login capabilities will be provided for authorized individuals to log in and view the patient’s information The main goal is to help track longitudinal changes specifically focusing on headaches and mood changes, as well as accurately inform patients during office visits By combining physical and mental symptom tracking, BrainTrack helps improve communication between patients, families, and medical professionals.
@@ -44,3 +40,4 @@ This is the repository that you are going to use **individually** for developing
 Regarding the use of this repository, once a feature (or part of it) is developed and **working** or parts of your system are integrated and **working**, define a commit and push it to the remote repository. You may find yourself making a commit after a productive hour of work (or even after 20 minutes!), for example. Choose commit message wisely and be concise.
 
 Please choose the structure of the contents of this repository that suits the needs of your project but do indicate in this file where the main software artefacts are located.
+
